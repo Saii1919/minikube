@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: digital-marketing
-          image: Saii1919/saikumar:v1
+          image: saii1919/saikumar:v1
           ports:
             - containerPort: 80
           resources:
